@@ -1,0 +1,16 @@
+noun daniel:
+	color: #307ace
+	picture: box
+	position: 50 50
+end
+
+noun store:
+	position: 100 100
+end
+
+verb ran:
+	who: daniel
+	position: store
+end
+
+daniel ran to the store.

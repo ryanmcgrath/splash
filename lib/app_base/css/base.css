@@ -1,0 +1,29 @@
+/*	base.css
+ *	
+ *	Resets styles in all supported browsers (IE6, IE7, IE8, IE9, FF2/3, Opera, Webkit, etc)
+ *	Wraps a basic frame for all "programs" to take place in.
+ */
+
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,font,img,kbd,q,s,samp,small,strike,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;} :focus{outline:0;}body{line-height:1;}ol,ul{list-style:none;}table{border-collapse:separate;border-spacing:0;}caption,th,td{text-align:left;font-weight:normal;}blockquote:before,blockquote:after,q:before,q:after{content:"";}blockquote,q{quotes:"""";}
+
+html {
+	font: normal 62.5%/1 helvetica, arial, sans-serif; /* helvetica for systems that don't suck, arial for the ones that do */
+	background-color: #010101;
+	padding: 0;
+	text-align: center;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#splash_app_wrapper {
+	width: 96%;
+	padding: 1%;
+	margin: 1% auto;
+	background-color: #fff;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
