@@ -66,7 +66,7 @@ Splash programs "compile" down to Javascript, and can (will) run in any browser.
 and open source - kids shouldn't be denied access to a great learning experience.
 
 There's nothing else out there where a kid can write a program in a format they already know, and be able to run it anywhere
-(Desktop, Laptop, emerging devices (iPhone/iPad/Android). Rock on.
+(Desktop, Laptop, emerging devices (iPhone/iPad/Android)). Rock on.
 
 Currently, to compile a splash program, you'll need Node.js and a Unix system. For portability purposes, this may be rewritten
 in the near future, we'll see how it goes.
@@ -77,6 +77,6 @@ Questions, comments?
 -----------------------------------------------------------------------------------------------------------
 Hit me up at the following:
 
-ryan[at]venodesigns.net
-http://twitter.com/ryanmcgrath
-http://venodesigns.net/
+ryan[at]venodesigns.net  
+http://twitter.com/ryanmcgrath  
+http://venodesigns.net/  
