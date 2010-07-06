@@ -47,7 +47,6 @@ your story. Check out this example:
     end
     
     verb ran:  
-	    who: daniel  
         position: store  
     end
     
